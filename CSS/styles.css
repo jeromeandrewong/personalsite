@@ -135,10 +135,10 @@ hr {
 
 .btn:hover {
   background: #769fcd;
-  background-image: -webkit-linear-gradient(top, #769fcd, #b9d7ea);
-  background-image: -moz-linear-gradient(top, #769fcd, #b9d7ea);
-  background-image: -ms-linear-gradient(top, #769fcd, #b9d7ea);
-  background-image: -o-linear-gradient(top, #769fcd, #b9d7ea);
-  background-image: linear-gradient(to bottom, #769fcd, #b9d7ea);
+  background-image: -webkit-linear-gradient(top, #dbe2ef, #dbe2ef);
+  background-image: -moz-linear-gradient(top, #dbe2ef, #dbe2ef);
+  background-image: -ms-linear-gradient(top, #dbe2ef, #dbe2ef);
+  background-image: -o-linear-gradient(top, #dbe2ef, #dbe2ef);
+  background-image: linear-gradient(to bottom, #dbe2ef, #dbe2ef);
   text-decoration: none;
 }
